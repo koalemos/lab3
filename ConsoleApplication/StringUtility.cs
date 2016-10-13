@@ -8,5 +8,6 @@ namespace ConsoleApplication
 {
     class StringUtility
     {
+
     }
 }
